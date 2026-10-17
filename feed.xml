@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>金品质声音</title>
+    <link>https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/</link>
+    <description>金品质管理顾问出品的深度管理播客：卓越绩效模式体系下的战略实现</description>
+    <language>zh-cn</language>
+    <itunes:author>金品质管理顾问</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>第3期｜你的战略假设验证过吗？</title>
+      <description>金品质声音第三期：战略输掉很少输在执行，多半输在制定——聊那些从没被验证过的战略假设，以及一张拿回去就能用的假设检验清单。</description>
+      <pubDate>Sat, 17 Oct 2026 07:27:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep03.mp3" length="2684581" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep03</guid>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>第2期｜满意度调查为什么听不见顾客的声音</title>
+      <description>金品质声音第二期：满意度调查为什么听不见顾客的声音——聊顾客声音进入战略的三个检验标准。</description>
+      <pubDate>Fri, 16 Oct 2026 07:31:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep02.mp3" length="3199333" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep02</guid>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>第1期｜战略展开的断裂带：2026版博德里奇为什么取消了结果类目</title>
+      <description>金品质声音第一期：2026版博德里奇框架取消结果类目，聊战略实现为什么总在展开这一步断掉。</description>
+      <pubDate>Thu, 15 Oct 2026 13:18:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep01.mp3" length="4871653" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep01</guid>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
