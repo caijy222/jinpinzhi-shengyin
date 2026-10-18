@@ -1,1 +1,52 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIj4KICA8Y2hhbm5lbD4KICAgIDx0aXRsZT7ph5Hlk4HotKjlo7Dpn7M8L3RpdGxlPgogICAgPGxpbms+aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2NhaWp5MjIyL2ppbnBpbnpoaS1zaGVuZ3lpbkBtYWluLzwvbGluaz4KICAgIDxkZXNjcmlwdGlvbj7ph5Hlk4HotKjnrqHnkIbpob7pl67lh7rlk4HnmoTmt7HluqbnrqHnkIbmkq3lrqLvvJrljZPotornu6nmlYjmqKHlvI/kvZPns7vkuIvnmoTmiJjnlaXlrp7njrA8L2Rlc2NyaXB0aW9uPgogICAgPGxhbmd1YWdlPnpoLWNuPC9sYW5ndWFnZT4KICAgIDxpdHVuZXM6YXV0aG9yPumHkeWTgei0qOeuoeeQhumhvumXrjwvaXR1bmVzOmF1dGhvcj4KICAgIDxpdHVuZXM6aW1hZ2UgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2NhaWp5MjIyL2ppbnBpbnpoaS1zaGVuZ3lpbkBtYWluL2NvdmVyLmpwZyIvPgogICAgPGl0dW5lczpjYXRlZ29yeSB0ZXh0PSJCdXNpbmVzcyI+CiAgICAgIDxpdHVuZXM6Y2F0ZWdvcnkgdGV4dD0iTWFuYWdlbWVudCIvPgogICAgPC9pdHVuZXM6Y2F0ZWdvcnk+CiAgICA8aXR1bmVzOmV4cGxpY2l0Pm5vPC9pdHVuZXM6ZXhwbGljaXQ+CiAgICA8aXR1bmVzOnR5cGU+ZXBpc29kaWM8L2l0dW5lczp0eXBlPgogICAgPGl0ZW0+CiAgICAgIDx0aXRsZT7nrKw05pyf772c5L2g55qE5pWw5o2u6YOo6Zeo77yM5LiA5bm06Lef5oiY55Wl6YOo6Zeo5byA5Yeg5qyh5Lya77yfPC90aXRsZT4KICAgICAgPGRlc2NyaXB0aW9uPue7hOe7h+aZuuiDveaIkOeGn+S4jeaIkOeGn++8jOS4jeeci+S9oOaKleS6huWkmuWwkemSseW7uuezu+e7n++8jOeci+aVsOaNruOAgeefpeivhuOAgeaZuuiDveW3peWFt+S4ieagt+S4nOilv+i/m+ayoei/m+WFpeaImOeVpeWGs+etlueahOWbnui3r+OAguacrOacn+iBiuaVsOaNrui0qOmHj+aYr+WcsOWfuuOAgeefpeivhuayiea3gOmYsua1geWkse+8jOS7peWPiuS4pOS4quacjeWKoeS4muecn+WunuahiOS+i+OAgjwvZGVzY3JpcHRpb24+CiAgICAgIDxwdWJEYXRlPlN1biwgMTggT2N0IDIwMjYgMDk6MTU6MDAgKzA4MDA8L3B1YkRhdGU+CiAgICAgIDxlbmNsb3N1cmUgdXJsPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvY2FpankyMjIvamlucGluemhpLXNoZW5neWluQG1haW4vZXAwNC5tcDMiIGxlbmd0aD0iNDc1MTMwOSIgdHlwZT0iYXVkaW8vbXBlZyIvPgogICAgICA8Z3VpZCBpc1Blcm1hTGluaz0iZmFsc2UiPmppbnBpbnpoaS1zaGVuZ3lpbi1lcDA0PC9ndWlkPgogICAgICA8aXR1bmVzOmR1cmF0aW9uPjk6NTQ8L2l0dW5lczpkdXJhdGlvbj4KICAgICAgPGl0dW5lczpleHBsaWNpdD5ubzwvaXR1bmVzOmV4cGxpY2l0PgogICAgPC9pdGVtPgogICAgPGl0ZW0+CiAgICAgIDx0aXRsZT7nrKwz5pyf772c5L2g55qE5oiY55Wl5YGH6K6+6aqM6K+B6L+H5ZCX77yfPC90aXRsZT4KICAgICAgPGRlc2NyaXB0aW9uPumHkeWTgei0qOWjsOmfs+esrOS4ieacn++8muaImOeVpei+k+aOieW+iOWwkei+k+WcqOaJp+ihjO+8jOWkmuWNiui+k+WcqOWItuWumuKAlOKAlOiBiumCo+S6m+S7juayoeiiq+mqjOivgei/h+eahOaImOeVpeWBh+iuvu+8jOS7peWPiuS4gOW8oOaLv+WbnuWOu+WwseiDveeUqOeahOWBh+iuvuajgOmqjOa4heWNleOAgjwvZGVzY3JpcHRpb24+CiAgICAgIDxwdWJEYXRlPlNhdCwgMTcgT2N0IDIwMjYgMDc6Mjc6MDAgKzA4MDA8L3B1YkRhdGU+CiAgICAgIDxlbmNsb3N1cmUgdXJsPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvY2FpankyMjIvamlucGluemhpLXNoZW5neWluQG1haW4vZXAwMy5tcDMiIGxlbmd0aD0iMjY4NDU4MSIgdHlwZT0iYXVkaW8vbXBlZyIvPgogICAgICA8Z3VpZCBpc1Blcm1hTGluaz0iZmFsc2UiPmppbnBpbnpoaS1zaGVuZ3lpbi1lcDAzPC9ndWlkPgogICAgICA8aXR1bmVzOmR1cmF0aW9uPjU6MzU8L2l0dW5lczpkdXJhdGlvbj4KICAgICAgPGl0dW5lczpleHBsaWNpdD5ubzwvaXR1bmVzOmV4cGxpY2l0PgogICAgPC9pdGVtPgogICAgPGl0ZW0+CiAgICAgIDx0aXRsZT7nrKwy5pyf772c5ruh5oSP5bqm6LCD5p+l5Li65LuA5LmI5ZCs5LiN6KeB6aG+5a6i55qE5aOw6Z+zPC90aXRsZT4KICAgICAgPGRlc2NyaXB0aW9uPumHkeWTgei0qOWjsOmfs+esrOS6jOacn++8mua7oeaEj+W6puiwg+afpeS4uuS7gOS5iOWQrOS4jeingemhvuWuoueahOWjsOmfs+KAlOKAlOiBiumhvuWuouWjsOmfs+i/m+WFpeaImOeVpeeahOS4ieS4quajgOmqjOagh+WHhuOAgjwvZGVzY3JpcHRpb24+CiAgICAgIDxwdWJEYXRlPkZyaSwgMTYgT2N0IDIwMjYgMDc6MzE6MDAgKzA4MDA8L3B1YkRhdGU+CiAgICAgIDxlbmNsb3N1cmUgdXJsPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvY2FpankyMjIvamlucGluemhpLXNoZW5neWluQG1haW4vZXAwMi5tcDMiIGxlbmd0aD0iMzE5OTMzMyIgdHlwZT0iYXVkaW8vbXBlZyIvPgogICAgICA8Z3VpZCBpc1Blcm1hTGluaz0iZmFsc2UiPmppbnBpbnpoaS1zaGVuZ3lpbi1lcDAyPC9ndWlkPgogICAgICA8aXR1bmVzOmR1cmF0aW9uPjY6Mzk8L2l0dW5lczpkdXJhdGlvbj4KICAgICAgPGl0dW5lczpleHBsaWNpdD5ubzwvaXR1bmVzOmV4cGxpY2l0PgogICAgPC9pdGVtPgogICAgPGl0ZW0+CiAgICAgIDx0aXRsZT7nrKwx5pyf772c5oiY55Wl5bGV5byA55qE5pat6KOC5bim77yaMjAyNueJiOWNmuW+t+mHjOWlh+S4uuS7gOS5iOWPlua2iOS6hue7k+aenOexu+ebrjwvdGl0bGU+CiAgICAgIDxkZXNjcmlwdGlvbj7ph5Hlk4HotKjlo7Dpn7PnrKzkuIDmnJ/vvJoyMDI254mI5Y2a5b636YeM5aWH5qGG5p625Y+W5raI57uT5p6c57G755uu77yM6IGK5oiY55Wl5a6e546w5Li65LuA5LmI5oC75Zyo5bGV5byA6L+Z5LiA5q2l5pat5o6J44CCPC9kZXNjcmlwdGlvbj4KICAgICAgPHB1YkRhdGU+VGh1LCAxNSBPY3QgMjAyNiAxMzoxODowMCArMDgwMDwvcHViRGF0ZT4KICAgICAgPGVuY2xvc3VyZSB1cmw9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9jYWlqeTIyMi9qaW5waW56aGktc2hlbmd5aW5AbWFpbi9lcDAxLm1wMyIgbGVuZ3RoPSI0ODcxNjUzIiB0eXBlPSJhdWRpby9tcGVnIi8+CiAgICAgIDxndWlkIGlzUGVybWFMaW5rPSJmYWxzZSI+amlucGluemhpLXNoZW5neWluLWVwMDE8L2d1aWQ+CiAgICAgIDxpdHVuZXM6ZHVyYXRpb24+MTA6MDg8L2l0dW5lczpkdXJhdGlvbj4KICAgICAgPGl0dW5lczpleHBsaWNpdD5ubzwvaXR1bmVzOmV4cGxpY2l0PgogICAgPC9pdGVtPgogIDwvY2hhbm5lbD4KPC9yc3M+Cg==
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>金品质声音</title>
+    <link>https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/</link>
+    <description>金品质管理顾问出品的深度管理播客：卓越绩效模式体系下的战略实现</description>
+    <language>zh-cn</language>
+    <itunes:author>金品质管理顾问</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>第4期｜你的数据部门，一年跟战略部门开几次会？</title>
+      <description>组织智能成熟不成熟，不看你投了多少钱建系统，看数据、知识、智能工具三样东西进没进入战略决策的回路。本期聊数据质量是地基、知识沉淀防流失，以及两个服务业真实案例。</description>
+      <pubDate>Sun, 18 Oct 2026 09:15:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep04.mp3" length="4751309" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep04</guid>
+      <itunes:duration>9:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>第3期｜你的战略假设验证过吗？</title>
+      <description>金品质声音第三期：战略输掉很少输在执行，多半输在制定——聊那些从没被验证过的战略假设，以及一张拿回去就能用的假设检验清单。</description>
+      <pubDate>Sat, 17 Oct 2026 07:27:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep03.mp3" length="2684581" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep03</guid>
+      <itunes:duration>5:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>第2期｜满意度调查为什么听不见顾客的声音</title>
+      <description>金品质声音第二期：满意度调查为什么听不见顾客的声音——聊顾客声音进入战略的三个检验标准。</description>
+      <pubDate>Fri, 16 Oct 2026 07:31:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep02.mp3" length="3199333" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep02</guid>
+      <itunes:duration>6:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>第1期｜战略展开的断裂带：2026版博德里奇为什么取消了结果类目</title>
+      <description>金品质声音第一期：2026版博德里奇框架取消结果类目，聊战略实现为什么总在展开这一步断掉。</description>
+      <pubDate>Thu, 15 Oct 2026 13:18:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep01.mp3" length="4871653" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep01</guid>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
