@@ -13,6 +13,15 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>第11期｜创新是被日常工作吃掉的</title>
+      <description>创新很少是被对手打死的，更多是被日常工作吃掉的：这期聊透时间、考核、注意力三道安静的阀门，加一套拿回去就能用的创新保护三件套：时间留白、考核单列、小步试错。</description>
+      <pubDate>Mon, 26 Oct 2026 09:30:00 +0800</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/ep11.mp3" length="6782437" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-shengyin-ep11</guid>
+      <itunes:duration>14:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>第10期｜你的战略，只记了一本账</title>
       <description>风险不是战略写完后的附录，而是战略制定的输入：这期聊透双账本——威胁账本管活下去，机会账本管长出来；海底捞啄木鸟与迪士尼流媒体的两个故事，加一套战略会前就能用的双账本三问。</description>
       <pubDate>Sat, 24 Oct 2026 13:06:00 +0800</pubDate>
@@ -110,3 +119,4 @@
     </item>
   </channel>
 </rss>
+
