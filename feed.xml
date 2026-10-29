@@ -6,6 +6,10 @@
     <description>金品质管理顾问出品的深度管理播客：卓越绩效模式体系下的战略实现</description>
     <language>zh-cn</language>
     <itunes:author>金品质管理顾问</itunes:author>
+    <itunes:owner>
+      <itunes:name>金品质管理顾问</itunes:name>
+      <itunes:email>caijy22@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://cdn.jsdelivr.net/gh/caijy222/jinpinzhi-shengyin@main/cover.jpg"/>
     <itunes:category text="Business">
       <itunes:category text="Management"/>
