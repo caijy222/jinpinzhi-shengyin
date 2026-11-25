@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Gold-Q: AI for Management</title>
+    <link>https://www.gold-q.com/</link>
+    <description>Gold-Q: AI for Management. The AI column, in conversation: conclusions, data, and cases from Gold-Q's AI for Management column, made audible. One conclusion per episode, ending with something you can take away and use.</description>
+    <language>en</language>
+    <itunes:author>Gold-Q Business Consulting</itunes:author>
+    <itunes:subtitle>AI for Management, in conversation.</itunes:subtitle>
+    <itunes:summary>Gold-Q: AI for Management. The AI column, in conversation: conclusions, data, and cases from Gold-Q's AI for Management column, made audible. One conclusion per episode, ending with something you can take away and use.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Gold-Q Business Consulting</itunes:name>
+      <itunes:email>caijy22@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.gold-q.com/rss/cover-ai-en.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Episode 1 | 40% deploy AI, 6% profit from it</title>
+      <link>https://www.gold-q.com/audio/ai-01-en.mp3</link>
+      <description>Episode 1 | 40% deploy AI, 6% profit from it. Forty percent of large companies have deployed AI agents at scale — only six percent say AI contributes more than five percent of operating profit. The gap isn't technology; it's how the company is run. This episode unpacks McKinsey's AI operating system: what it is, its four jobs, a global insurer's three-day turnaround, four differences from traditional tools, six priorities for building one, and four shifts in management itself. Ends with three things you can do on Monday. Adapted from the column article 'AI Operating System: The CEO's New Way of Running the Company' (article 111), source McKinsey, Oct 12, 2026. Hosts: Xiaose and Marcus. Duration 14:14.</description>
+      <pubDate>Wed, 25 Nov 2026 10:33:50 +0800</pubDate>
+      <enclosure url="https://www.gold-q.com/audio/ai-01-en.mp3" length="6839653" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-ai-column-en-ep01</guid>
+      <itunes:image href="https://www.gold-q.com/assets/voice/rss/ai-ep01.jpg"/>
+      <itunes:duration>855</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

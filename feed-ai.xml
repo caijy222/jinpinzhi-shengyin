@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>金品质声音-AI赋能管理专栏</title>
+    <link>https://www.gold-q.com/</link>
+    <description>金品质管理顾问出品的 AI 赋能管理播客：把专栏文章讲成对话——结论、数据、案例一个不少，每期只讲一个结论，结尾给一个可带走的结论或工具。片头片尾：这里是金品质声音——AI赋能管理专栏。</description>
+    <language>zh-cn</language>
+    <itunes:author>金品质管理顾问</itunes:author>
+    <itunes:owner>
+      <itunes:name>金品质管理顾问</itunes:name>
+      <itunes:email>caijy22@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.gold-q.com/rss/cover-ai.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>AI专栏第1期｜40%部署，6%赚钱</title>
+      <description>AI专栏第1期｜40%部署，6%赚钱。40% 的大企业已经规模化部署了 AI 智能体，只有 6% 说 AI 贡献了 5% 以上的息税前利润——中间差的不是技术，是运营模式。本期讲麦肯锡的 AI 操作系统：它是什么、四个职能、全球保险公司的三天实战、与传统工具的四个根本区别、建设的六条优先事项，以及管理本身的四组转变。结尾给三条可以直接动手的事。改编自专栏文章《AI 操作系统：CEO 运行企业的新方式》（article 111），来源 McKinsey 2026-10-12。主播：周远、林晓。时长 12:26。</description>
+      <pubDate>Wed, 25 Nov 2026 10:33:50 +0800</pubDate>
+      <enclosure url="https://www.gold-q.com/audio/ai-01.mp3" length="5645613" type="audio/mpeg"/>
+      <guid isPermaLink="false">jinpinzhi-ai-column-ep01</guid>
+      <itunes:image href="https://www.gold-q.com/assets/voice/rss/ai-ep01.jpg"/>
+      <itunes:duration>12:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
